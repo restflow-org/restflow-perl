@@ -1,4 +1,4 @@
-package org.restflow.python;
+package org.restflow.perl;
 
 import org.restflow.test.WorkflowTestCase;
 
