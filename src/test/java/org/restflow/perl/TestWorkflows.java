@@ -2,10 +2,10 @@ package org.restflow.perl;
 
 import org.restflow.test.WorkflowTestCase;
 
-public class TestWorkflowsPerl extends WorkflowTestCase {
+public class TestWorkflows extends WorkflowTestCase {
 
-	public TestWorkflowsPerl() {
-		super("workflows");
+	public TestWorkflows() {
+		super("org/restflow/test/TestWorkflows");
 	}
 
 	@Override
