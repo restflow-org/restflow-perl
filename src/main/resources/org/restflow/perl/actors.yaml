@@ -1,6 +1,6 @@
 imports:
 
-- classpath:org/restflow/perl/perlActor.yaml
+- classpath:org/restflow/perl/types.yaml
 
 components:
 
